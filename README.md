@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1500x500/4B0082/ffffff?text=Vanessa+Teles+%7C+Future+Developer" alt="Banner Vanessa" width="100%" />
+  <img src="https://github.com/vanessapcteles/vanessapcteles/blob/main/bannerVanessa.jpg?raw=true" alt="Banner Vanessa" width="100%" />
 </div>
 
 <br/>
@@ -13,7 +13,7 @@
     O meu objetivo é transformar ideias em realidade através da tecnologia.
   </p>
   
-  <a href="[https://linkedin.com/in/https://www.linkedin.com/in/vanessa-teles-63245317b](https://www.linkedin.com/in/vanessa-teles-63245317b)">
+  <a href="https://www.linkedin.com/in/vanessa-teles-63245317b">
     <img src="https://img.shields.io/badge/-LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:vteles@live.com.pt">
