@@ -1,16 +1,17 @@
 <div align="center">
-  <img src="https://github.com/vanessapcteles/vanessapcteles/blob/main/bannerVanessa.jpg?raw=true" alt="Banner Vanessa" width="50%" />
+  <img src="https://github.com/vanessapcteles/vanessapcteles/blob/main/bannerVanessa.jpg?raw=true" alt="Banner Vanessa" width="20%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h1>Olá! Eu sou a Vanessa Teles 👋</h1>
-  <h3>💜 A explorar o universo do código, uma linha de cada vez.</h3>
+  <h1>Hi, I'm Vanessa! 👋</h1>
+  <h3>Beginner Software Developer | CrossFit Athlete | Tech Enthusiast</h3>
+  
   <p>
-    Estou a iniciar a minha jornada no mundo da programação.<br/>
-    Atualmente focada em aprender os fundamentos da Web e Lógica de Programação.<br/>
-    O meu objetivo é transformar ideias em realidade através da tecnologia.
+    I'm currently navigating the world of <b>Web Development</b>.<br/>
+    Passionate about turning complex problems into simple, beautiful interface designs.<br/>
+    When I'm not coding, you can find me at the Box doing some WODs! 🏋️‍♀️
   </p>
   
   <a href="https://www.linkedin.com/in/vanessa-teles-63245317b">
@@ -25,31 +26,29 @@
 
 ---
 
-### 📚 O que estou a aprender
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" /><br>HTML5
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" /><br>CSS3
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" /><br>JavaScript
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /><br>Git
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /><br>GitHub
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" /><br>VS Code
-      </td>
-    </tr>
-  </table>
+
+### 🖥️ Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react" height="40" alt="Frontend Skills" />
+
+### 🎨 CSS Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,npm,dotnet,cs,java,c" height="40" alt="Backend Skills" />
+
+### 🗄️ Databases
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" height="35" />
+</div>
+
+### 🎨 Design Tools
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" height="35" />
+
+### 🧰 Version Control
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" height="40" alt="Version Control" />
+
 </div>
 
 <br/>
@@ -58,15 +57,14 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vanessapcteles&show_icons=true&theme=shades-of-purple&bg_color=0,0,0,0&hide_border=true" />
-    
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessapcteles&layout=compact&theme=shades-of-purple&bg_color=0,0,0,0&hide_border=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vanessapcteles&show_icons=true&theme=shades-of-purple&bg_color=000000&hide_border=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessapcteles&layout=compact&theme=shades-of-purple&bg_color=000000&hide_border=true" />
   </div>
 </div>
 
 ---
 
-### 🌱 Sobre a minha jornada
-- 🔭 Atualmente estou a estudar HTML, CSS, JavaScript, React, API, C#, C++, Java.
-- 👯 Procuro conectar-me com outros estudantes ou mentores.
-- ⚡ Facto curioso: A minha cor favorita é **Roxo** 💜 (e isso nota-se no meu perfil!).
+### 🌱 My Journey
+- 🔭 I’m currently working on **Frontend projects with React**.
+- 👯 I’m looking to collaborate on **Open Source projects for beginners**.
+- ⚡ Fun fact: I balance my time between **Coding** and **CrossFit**!
