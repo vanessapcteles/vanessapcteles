@@ -57,9 +57,9 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vanessapcteles&show_icons=true&bg_color=000000&hide_border=true&title_color=ffffff&text_color=BE29EC&icon_color=BE29EC" alt="Vanessa's GitHub Stats" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vanessapcteles&show_icons=true&bg_color=000000&hide_border=true&title_color=ffffff&text_color=C5A3FF&icon_color=C5A3FF" alt="Vanessa's GitHub Stats" />
     <br/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessapcteles&layout=compact&bg_color=000000&hide_border=true&title_color=ffffff&text_color=BE29EC" alt="Vanessa's Top Languages" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessapcteles&layout=compact&bg_color=000000&hide_border=true&title_color=ffffff&text_color=C5A3FF" alt="Vanessa's Top Languages" />
   </div>
 </div>
 
