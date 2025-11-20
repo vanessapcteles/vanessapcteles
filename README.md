@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/vanessapcteles/vanessapcteles/blob/main/bannerVanessa.jpg?raw=true" alt="Banner Vanessa" width="100%" />
+  <img src="https://github.com/vanessapcteles/vanessapcteles/blob/main/bannerVanessa.jpg?raw=true" alt="Banner Vanessa" width="50%" />
 </div>
 
 <br/>
