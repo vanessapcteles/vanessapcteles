@@ -13,7 +13,7 @@
     O meu objetivo é transformar ideias em realidade através da tecnologia.
   </p>
   
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/vanessa-teles-63245317b)">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/vanessa-teles-63245317b">
     <img src="https://img.shields.io/badge/-LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:vteles@live.com.pt">
@@ -60,7 +60,7 @@
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vanessapcteles&show_icons=true&theme=shades-of-purple&bg_color=0,0,0,0&hide_border=true" />
     
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=(SEU-USUARIO)&layout=compact&theme=shades-of-purple&bg_color=0,0,0,0&hide_border=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessapcteles&layout=compact&theme=shades-of-purple&bg_color=0,0,0,0&hide_border=true" />
   </div>
 </div>
 
