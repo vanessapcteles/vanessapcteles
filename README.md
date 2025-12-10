@@ -66,6 +66,6 @@
 ---
 
 ### 🌱 My Journey
-- 🔭 I’m currently working on **Frontend projects with React**.
+- 🔭 I am currently finishing my **CET (Professional Training Course)** at **ATEC**.
 - 👯 I’m looking to collaborate on **Open Source projects for beginners**.
 - ⚡ Fun fact: I balance my time between **Coding** and **CrossFit**!
