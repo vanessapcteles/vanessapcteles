@@ -55,13 +55,6 @@
 
 ---
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vanessapcteles&show_icons=true&bg_color=000000&hide_border=true&title_color=ffffff&text_color=C5A3FF&icon_color=C5A3FF" alt="Vanessa's GitHub Stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessapcteles&layout=compact&bg_color=000000&hide_border=true&title_color=ffffff&text_color=C5A3FF" alt="Vanessa's Top Languages" />
-</div>
-
----
-
 ### 🌱 My Journey
 - 🔭 I am currently finishing my **CET (Professional Training Course)** at **ATEC**.
 - 👯 I’m looking to collaborate on **Open Source projects for beginners**.
