@@ -28,6 +28,39 @@
 
 <div align="center">
 
+## 🚀 Featured Projects
+
+### 🤝 A.M.I.G.O
+
+My final Software Development project, where I applied the technologies and concepts learned throughout my training. This full-stack application combines frontend development, backend integration, and database management.
+
+**Tech Stack:** React, JavaScript, Node.js, MySQL
+
+🌐 **Live Demo:**
+
+🔗 **Repository:** https://github.com/vanessapcteles/A.M.I.G.O
+
+---
+
+### 🎯 ATECQuiz
+
+My first project developed with C#, where I learned the fundamentals of programming, object-oriented concepts, and application logic through an interactive quiz application.
+
+**Tech Stack:** C#
+
+🔗 **Repository:** https://github.com/vanessapcteles/ATECQuiz
+
+---
+
+### 📱 Mobile App
+
+A mobile application developed with Kotlin that introduced me to Android development, mobile interfaces, and user experience design.
+
+**Tech Stack:** Kotlin, Android Studio
+
+🔗 **Repository:** https://github.com/vanessapcteles/app_mobile
+
+
 ### 🖥️ Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react" height="40" alt="Frontend Skills" />
 
