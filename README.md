@@ -6,13 +6,13 @@
 
 <div align="center">
   <h1>Hi, I'm Vanessa! 👋</h1>
-  <h3>Beginner Software Developer | CrossFit Athlete | Tech Enthusiast</h3>
+  <h3>Junior Software Developer | OutSystems Developer | CrossFit Athlete</h3>
   
-  <p>
-    I'm currently navigating the world of <b>Web Development</b>.<br/>
-    Passionate about turning complex problems into simple, beautiful interface designs.<br/>
-    When I'm not coding, you can find me at the Box doing some WODs! 🏋️‍♀️
-  </p>
+ <p>
+  🎓 Software Development graduate from ATEC, currently building my professional career in technology.<br/>
+  Passionate about web development, continuous learning, and creating solutions that make a difference.<br/>
+  When I'm not coding, you can find me at the Box doing some WODs! 🏋️‍♀️
+</p>
   
   <a href="https://www.linkedin.com/in/vanessa-teles-63245317b">
     <img src="https://img.shields.io/badge/-LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -56,6 +56,8 @@
 ---
 
 ### 🌱 My Journey
-- 🔭 I am currently finishing my **CET (Professional Training Course)** at **ATEC**.
-- 👯 I’m looking to collaborate on **Open Source projects for beginners**.
-- ⚡ Fun fact: I balance my time between **Coding** and **CrossFit**!
+
+* 🎓 Graduated from ATEC's **Professional Training Course in Software Development**.
+* 💼 Currently building my career as a **Software Developer in OutSystems**.
+* 👯 Open to collaborating on **Open Source projects** and exciting learning opportunities.
+* ⚡ Fun fact: I balance my time between **Coding** and **CrossFit**!
